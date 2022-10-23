@@ -2,6 +2,7 @@
 <h3 align="center">Data Enthusiast</h3>
 
 - 🌱 I’m currently learning **Power BI**
+- 🌱 I’m currently learning **SQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -1,8 +1,8 @@
 <h1 align="center">Hi 👋, I'm Vineet Kaur</h1>
 <h3 align="center">Data Enthusiast</h3>
 
-- 🌱 I’m currently learning **Power BI**
-- 🌱 I’m currently learning **SQL**
+- 🌱 I’m currently learning **Power BI & SQL**
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

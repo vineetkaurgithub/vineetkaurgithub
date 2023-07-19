@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Vineet Kaur</h1>
-<h3 align="center">Data Enthusiast</h3>
+<h3 align="center">Data Analyst</h3>
 
-- 🌱 I’m currently learning **Power BI & SQL**
+- 🌱 **Tableau, Power BI, SQL, MS Excel & VBA**
 
 
 <h3 align="left">Connect with me:</h3>
